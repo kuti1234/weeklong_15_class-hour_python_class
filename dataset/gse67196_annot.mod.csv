@@ -1,0 +1,54 @@
+sample,origin,tissue,genotype,age_of_death,preexisting_score
+1_cereb,brain,tissue: Cerebellum,genotype: c9ALS,88,1.2
+1_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,82,1.3
+2_cereb,brain,tissue: Cerebellum,genotype: c9ALS,86,1.4
+2_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,75,2.1
+34_cereb,brain,tissue: Cerebellum,genotype: c9ALS,74,2.2
+34_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,72,3.3
+57_cereb,brain,tissue: Cerebellum,genotype: c9ALS,75,3.5
+57_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,89,1.3
+6_cereb,brain,tissue: Cerebellum,genotype: c9ALS,86,1.4
+6_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,67,3.2
+62_cereb,brain,tissue: Cerebellum,genotype: c9ALS,70,3.3
+62_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,66,4.5
+63_cereb,brain,tissue: Cerebellum,genotype: c9ALS,74,2.1
+63_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,76,2.2
+7_cereb,brain,tissue: Cerebellum,genotype: c9ALS,62,3.2
+7_FCX,brain,tissue: Frontal Cortex,genotype: c9ALS,67,3.2
+11_cereb,brain,tissue: Cerebellum,genotype: sALS,81,1.2
+11_FCX,brain,tissue: Frontal Cortex,genotype: sALS,72,2.3
+12_cereb,brain,tissue: Cerebellum,genotype: sALS,87,1.2
+12_FCX,brain,tissue: Frontal Cortex,genotype: sALS,76,2.4
+13_cereb,brain,tissue: Cerebellum,genotype: sALS,77,2.4
+13_FCX,brain,tissue: Frontal Cortex,genotype: sALS,70,3.2
+14_cereb,brain,tissue: Cerebellum,genotype: sALS,64,3.6
+14_FCX,brain,tissue: Frontal Cortex,genotype: sALS,62,3.6
+70_cereb,brain,tissue: Cerebellum,genotype: sALS,60,4.6
+70_FCX,brain,tissue: Frontal Cortex,genotype: sALS,61,4.5
+71_cereb,brain,tissue: Cerebellum,genotype: sALS,90,1.1
+71_FCX,brain,tissue: Frontal Cortex,genotype: sALS,80,1.6
+72_cereb,brain,tissue: Cerebellum,genotype: sALS,70,2.5
+72_FCX,brain,tissue: Frontal Cortex,genotype: sALS,79,2.2
+73_cereb,brain,tissue: Cerebellum,genotype: sALS,65,3.2
+73_FCX,brain,tissue: Frontal Cortex,genotype: sALS,67,3.3
+74_cereb,brain,tissue: Cerebellum,genotype: sALS,69,4.1
+74_FCX,brain,tissue: Frontal Cortex,genotype: sALS,60,4.6
+75_cereb,brain,tissue: Cerebellum,genotype: sALS,65,3.2
+75_FCX,brain,tissue: Frontal Cortex,genotype: sALS,70,3.3
+24_cereb,brain,tissue: Cerebellum,genotype: Healthy,76,2.3
+24_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,78,2.4
+86_cereb,brain,tissue: Cerebellum,genotype: Healthy,77,2.2
+86_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,91,1.2
+90_cereb,brain,tissue: Cerebellum,genotype: Healthy,80,1.4
+90_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,85,1.5
+91_cereb,brain,tissue: Cerebellum,genotype: Healthy,67,3.4
+91_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,65,3.3
+93_cereb,brain,tissue: Cerebellum,genotype: Healthy,64,3.4
+93_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,79,1.5
+94_cereb,brain,tissue: Cerebellum,genotype: Healthy,86,1.1
+94_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,86,1.3
+95_cereb,brain,tissue: Cerebellum,genotype: Healthy,80,2.5
+95_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,77,2.6
+97_cereb,brain,tissue: Cerebellum,genotype: Healthy,76,2.1
+97_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,90,1
+100_FCX,brain,tissue: Frontal Cortex,genotype: Healthy,67,3.6
