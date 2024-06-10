@@ -1,0 +1,28 @@
+git clone https://github.com/jderry/weeklong_15_class-hour_python_class
+ls
+git pull
+cd weeklong_15_class-hour_python_class/
+git pull
+ls # list directory contents
+ipython
+ls
+cd day1
+ls
+cd ..
+git pull
+python
+ls
+cd day1
+touch myModule.py
+ls
+vim myModule.py 
+ls
+git pull
+cd weeklong_15_class-hour_python_class/
+git pull
+ls
+cd weeklong_15_class-hour_python_class/
+ls
+cd day1
+ls
+vim myModule.py 
