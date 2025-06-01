@@ -1,6 +1,7 @@
+Chapter 11
 basic function
 saving to module
 docstrings
 garbage filters
 positional v named arguments
-organizing a project with python functions
+organizing a project with python functions: Chapter 12

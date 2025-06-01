@@ -1,3 +1,4 @@
+Chapter 13, 15, 16
 as LoLs (lists-of-lists)
 as numpy ndarrays
 as pandas dataframes
