@@ -1,0 +1,6 @@
+basic function
+saving to module
+docstrings
+garbage filters
+positional v named arguments
+organizing a project with python functions

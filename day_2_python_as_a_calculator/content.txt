@@ -1,0 +1,4 @@
+notebooks
+pint
+numpy
+pandas

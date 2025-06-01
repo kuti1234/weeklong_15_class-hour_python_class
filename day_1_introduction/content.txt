@@ -1,0 +1,6 @@
+ensure everyone has access to: python notebooks pint numpy pandas
+quick-and-dirty computer architecture: mass-storage device, memory, cpu (cores)
+interpreters
+floats (accuracy and precision)
+#####
+algorithms

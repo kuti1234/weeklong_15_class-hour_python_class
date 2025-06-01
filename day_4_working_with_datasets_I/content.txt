@@ -1,0 +1,3 @@
+as LoLs (lists-of-lists)
+as numpy ndarrays
+as pandas dataframes
