@@ -1,6 +1,7 @@
 ensure everyone has access to: python notebooks pint numpy pandas
 quick-and-dirty computer architecture: mass-storage device, memory, cpu (cores): Chapter 2, Digital Computation
 interpreters: Sections 4.7.3 & 4
+python: Chapter 8
 floats (accuracy and precision): Chapter 7
 #####
 algorithms: Chapter 6
